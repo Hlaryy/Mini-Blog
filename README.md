@@ -20,7 +20,7 @@
 
 ## Project Structure
 ```text
-blog-manager/
+Mini-Blog/
 ├── captures/
 │   ├── b1.png
 │   ├── b2.png
